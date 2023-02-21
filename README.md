@@ -320,26 +320,7 @@ $
 
 ## Authors ##
 
-👤 **Besthor Igbe**
+👤 **Felicia Obinna Amadi Obinna Amadi**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@Egosoniaragp] (https://github.com/Egosoniaragp)
 
-👤 **Mosuro Kanyinsola Olubunmi**
-
-- GitHub: [@Mosuro1911] (https://github.com/Mosuro1911)
-
-👤 **SiziphiweD**
-
-- GitHub: [@SiziphiweD] (https://github.com/SiziphiweD)
-
-👤 **PhilisiweD**
-
-- GitHub: [@PhilisiweD] (https://github.com/PhilisiweD)
-
-👤 **Tebogo Dipale**
-
-- GitHub: [@MustbeThabz] (https://github.com/MustbeThabz)
-
-👤 **Obakeng Michael Kuate**
-
-- GitHub: [@] (https://github.com/)
