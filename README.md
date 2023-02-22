@@ -320,7 +320,7 @@ $
 
 ## Authors ##
 
-👤 **Felicia Obinna Amadi Obinna Amadi**
+👤 **Felicia Obinna Amadi Obinna Amadi and Adelani Adedeji**
 
 - GitHub: [@Egosoniaragp] (https://github.com/Egosoniaragp)
-
+- Github: [@Hadelany] (https://github.com/Hadelany)
